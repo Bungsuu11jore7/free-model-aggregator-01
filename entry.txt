@@ -1,0 +1,1 @@
+Best free AI model aggregator: one Python server that serves the OpenAI Chat Completions and Anthropic Messages APIs over the ten simulated free-tier providers, routing each request to the highest-rated free model that meets its requirements and failing over on 402/429.
